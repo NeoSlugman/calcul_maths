@@ -1,5 +1,5 @@
 ##########################
-# Début de mon programme #-
+# Début de mon programme #
 ##########################
 import random
 
